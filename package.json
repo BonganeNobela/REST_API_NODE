@@ -1,0 +1,25 @@
+{
+  "name": "restapi_node",
+  "version": "1.0.0",
+  "description": "learning how to develop APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonganeNobela/REST_API_NODE.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Bongani Nobela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonganeNobela/REST_API_NODE/issues"
+  },
+  "homepage": "https://github.com/BonganeNobela/REST_API_NODE#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
